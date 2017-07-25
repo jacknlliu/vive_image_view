@@ -1,6 +1,9 @@
 # vive_image_view
 
-test for HTC_Vive - ROS visual connection
+test for HTC_Vive - ROS visual connection   
+(2017/07) Fatal update occured in SteamVR and Nvidia driver, this packege will not work.   
+We have to manege nvidia direct-mode sorry...
+see https://github.com/ValveSoftware/SteamVR-for-Linux
 
 # Assume
 * OpenVR is compiled on /home/user/openvr
